@@ -1,0 +1,15 @@
+#container {
+    width: 300px;
+    display: inline-block;
+    margin-right: 15px;
+}
+#youtube_demo {
+  width: 300px;
+  /* margin-top: 10px; */
+  vertical-align: top;
+  /* margin-right: 15px; */
+}
+
+#search_bar {
+  display: block;
+}

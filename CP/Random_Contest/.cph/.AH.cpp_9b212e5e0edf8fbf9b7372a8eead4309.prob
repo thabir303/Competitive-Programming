@@ -1,0 +1,1 @@
+{"name":"Local: AH","url":"/home/tanvir/Extra/CP/Random_Contest/AH.cpp","tests":[{"id":1702982005742,"input":"dog ogday\ncat atcay\npig igpay\nfroot ootfray\nloops oopslay\n\natcay\nittenkay\noopslay","output":"cat\neh\nloops"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tanvir/Extra/CP/Random_Contest/AH.cpp","group":"local","local":true}
