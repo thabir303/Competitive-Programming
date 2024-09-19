@@ -13,7 +13,7 @@ int main()
     cin >> t;
     while (t--)
     {
-        ll n;
+        ll n,x;
         cin >> n;
         ll a[n + 1];
         if(n==1) {
